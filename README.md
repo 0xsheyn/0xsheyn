@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm an **IT professional in healthcare** with a passion for **Web3 and blockchain**. Welcome to my corner of GitHub!
+I'm an **IT Staff in healthcare** with a passion for **Web3 and blockchain**. Welcome to my corner of GitHub!
 
 ## 🎯 About Me
 
