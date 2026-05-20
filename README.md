@@ -1,10 +1,10 @@
 # Hey there! 👋
 
-I'm an **IT Staff in healthcare** with a passion for **Web3 and blockchain**. Welcome to my corner of GitHub!
+I'm an **IT Staff in Healthcare Service** with a passion for **Web3 and Blockchain**. Welcome to my corner of GitHub!
 
 ## 🎯 About Me
 
-I believe that the best skill isn't what you already know—it's your **desire to continuously learn**. In a rapidly advancing tech landscape, staying curious and adaptable is what keeps me sharp.
+I believe that the best skill isn't what you already know - it's your **desire to continuously learn**. In a rapidly advancing tech landscape, staying curious and adaptable is what keeps me sharp.
 
 My mission is to **build something meaningful**, not necessarily big, but impactful. I'm driven by the idea that innovation doesn't always require massive teams or scale; it requires focus and purpose.
 
@@ -23,7 +23,7 @@ My mission is to **build something meaningful**, not necessarily big, but impact
 
 ## 💡 My Goal
 
-To bridge my healthcare IT background with my Web3 passion and create solutions that matter—whether that's improving healthcare through blockchain or building tools that simplify Web3 for others.
+To bridge my job background with my Web3 passion and create solutions that matter - whether that's improving healthcare through blockchain or building tools that simplify Web3 for others.
 
 ---
 
